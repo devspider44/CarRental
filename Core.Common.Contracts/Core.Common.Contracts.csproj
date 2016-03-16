@@ -41,7 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IAccountOwnedEntity.cs" />
-    <Compile Include="IDirtyCable.cs" />
+    <Compile Include="IDirtyCapable.cs" />
     <Compile Include="IIdentifiable.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
