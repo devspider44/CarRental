@@ -1,0 +1,5 @@
+C:\dev\git\CarRental\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+C:\dev\git\CarRental\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+C:\dev\git\CarRental\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.csprojResolveAssemblyReference.cache
+C:\dev\git\CarRental\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+C:\dev\git\CarRental\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb

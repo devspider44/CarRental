@@ -15,6 +15,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{F24BC750
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRental.Client.Entities", "CarRental.Client.Entities\CarRental.Client.Entities.csproj", "{B8608764-56B4-4F51-BBD6-6D70C0490CC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Common", "Core.Common\Core.Common.csproj", "{D278E92E-09D6-41CC-9A5A-1DBD0EF06BB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Common.Contracts", "Core.Common.Contracts\Core.Common.Contracts.csproj", "{4D4E6FA2-1D73-45FD-B40D-2FBAA308D80F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +33,14 @@ Global
 		{B8608764-56B4-4F51-BBD6-6D70C0490CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8608764-56B4-4F51-BBD6-6D70C0490CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8608764-56B4-4F51-BBD6-6D70C0490CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D278E92E-09D6-41CC-9A5A-1DBD0EF06BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D278E92E-09D6-41CC-9A5A-1DBD0EF06BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D278E92E-09D6-41CC-9A5A-1DBD0EF06BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D278E92E-09D6-41CC-9A5A-1DBD0EF06BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D4E6FA2-1D73-45FD-B40D-2FBAA308D80F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D4E6FA2-1D73-45FD-B40D-2FBAA308D80F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D4E6FA2-1D73-45FD-B40D-2FBAA308D80F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D4E6FA2-1D73-45FD-B40D-2FBAA308D80F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,5 +48,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{5DE49A99-10AA-4289-B539-14A9A7D9255E} = {BE89ED56-FAFB-40AD-81C3-8DB1081FA481}
 		{B8608764-56B4-4F51-BBD6-6D70C0490CC0} = {77C85F6B-C40A-45F8-8090-3210DCAF1A9B}
+		{D278E92E-09D6-41CC-9A5A-1DBD0EF06BB4} = {64510BA7-ABC0-407A-B6BC-6E55A20D7F0C}
+		{4D4E6FA2-1D73-45FD-B40D-2FBAA308D80F} = {64510BA7-ABC0-407A-B6BC-6E55A20D7F0C}
 	EndGlobalSection
 EndGlobal
