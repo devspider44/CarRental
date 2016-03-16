@@ -4,11 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Runtime.Serialization;
+using Core.Common.Core;
 
 namespace CarRental.Business.Entities
 {
     [DataContract (Namespace="http://wwww.pluralsight.com/carrental")]
-    public class Car
+    public class Car : EntityBase
     {
         [DataMember]
         public int CardId { get; set; }
