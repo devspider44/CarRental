@@ -5,11 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Runtime.Serialization;
 using Core.Common.Core;
+using Core.Common.Contracts;
 
 namespace CarRental.Business.Entities
 {
-    [DataContract (Namespace="http://wwww.pluralsight.com/carrental")]
-    public class Car : EntityBase
+    [DataContract]
+    public class Car : EntityBase,IIdentifiableEntity
     {
         [DataMember]
         public int CardId { get; set; }
@@ -23,5 +24,18 @@ namespace CarRental.Business.Entities
         public decimal RentalPrice { get; set; }
         [DataMember]
         public bool CurrentlyRented { get; set; }
+
+        public int EntityId
+        {
+            get
+            {
+                return CardId;
+            }
+
+            set
+            {
+                CardId = value;
+            }
+        }
     }
 }
