@@ -1,0 +1,7 @@
+C:\dev\git\CarRental\CarRental.Data\bin\Debug\CarRental.Data.dll
+C:\dev\git\CarRental\CarRental.Data\bin\Debug\CarRental.Data.pdb
+C:\dev\git\CarRental\CarRental.Data\bin\Debug\CarRental.Data.Contracts.dll
+C:\dev\git\CarRental\CarRental.Data\bin\Debug\CarRental.Data.Contracts.pdb
+C:\dev\git\CarRental\CarRental.Data\obj\Debug\CarRental.Data.csprojResolveAssemblyReference.cache
+C:\dev\git\CarRental\CarRental.Data\obj\Debug\CarRental.Data.dll
+C:\dev\git\CarRental\CarRental.Data\obj\Debug\CarRental.Data.pdb
