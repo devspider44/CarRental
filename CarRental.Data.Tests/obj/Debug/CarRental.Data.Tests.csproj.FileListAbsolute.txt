@@ -10,3 +10,5 @@ C:\dev\git\CarRental\CarRental.Data.Tests\bin\Debug\Core.Common.Contracts.pdb
 C:\dev\git\CarRental\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.csprojResolveAssemblyReference.cache
 C:\dev\git\CarRental\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.dll
 C:\dev\git\CarRental\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.pdb
+C:\dev\git\CarRental\CarRental.Data.Tests\bin\Debug\EntityFramework.dll
+C:\dev\git\CarRental\CarRental.Data.Tests\bin\Debug\EntityFramework.xml

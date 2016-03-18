@@ -5,3 +5,14 @@ C:\dev\git\CarRental\CarRental.Data\bin\Debug\CarRental.Data.Contracts.pdb
 C:\dev\git\CarRental\CarRental.Data\obj\Debug\CarRental.Data.csprojResolveAssemblyReference.cache
 C:\dev\git\CarRental\CarRental.Data\obj\Debug\CarRental.Data.dll
 C:\dev\git\CarRental\CarRental.Data\obj\Debug\CarRental.Data.pdb
+C:\dev\git\CarRental\CarRental.Data\bin\Debug\CarRental.Data.dll.config
+C:\dev\git\CarRental\CarRental.Data\bin\Debug\CarRental.Business.Entities.dll
+C:\dev\git\CarRental\CarRental.Data\bin\Debug\Core.Common.Contracts.dll
+C:\dev\git\CarRental\CarRental.Data\bin\Debug\Core.Common.dll
+C:\dev\git\CarRental\CarRental.Data\bin\Debug\EntityFramework.dll
+C:\dev\git\CarRental\CarRental.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\git\CarRental\CarRental.Data\bin\Debug\CarRental.Business.Entities.pdb
+C:\dev\git\CarRental\CarRental.Data\bin\Debug\Core.Common.Contracts.pdb
+C:\dev\git\CarRental\CarRental.Data\bin\Debug\Core.Common.pdb
+C:\dev\git\CarRental\CarRental.Data\bin\Debug\EntityFramework.xml
+C:\dev\git\CarRental\CarRental.Data\bin\Debug\EntityFramework.SqlServer.xml

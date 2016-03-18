@@ -32,4 +32,4 @@ namespace Core.Common.Contracts
     }
 
 }
-}
+

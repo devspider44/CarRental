@@ -7,3 +7,5 @@ C:\dev\git\CarRental\CarRental.Business.Entities\bin\Debug\Core.Common.dll
 C:\dev\git\CarRental\CarRental.Business.Entities\bin\Debug\Core.Common.pdb
 C:\dev\git\CarRental\CarRental.Business.Entities\bin\Debug\Core.Common.Contracts.dll
 C:\dev\git\CarRental\CarRental.Business.Entities\bin\Debug\Core.Common.Contracts.pdb
+C:\dev\git\CarRental\CarRental.Business.Entities\bin\Debug\EntityFramework.dll
+C:\dev\git\CarRental\CarRental.Business.Entities\bin\Debug\EntityFramework.xml

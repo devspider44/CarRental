@@ -41,6 +41,7 @@
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -50,12 +51,26 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CarRentalContext.cs" />
+    <Compile Include="Data Repositories\AccountRepository.cs" />
+    <Compile Include="Data Repositories\DataRepositryBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\CarRental.Business.Entities\CarRental.Business.Entities.csproj">
+      <Project>{5de49a99-10aa-4289-b539-14a9a7d9255e}</Project>
+      <Name>CarRental.Business.Entities</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CarRental.Data.Contracts\CarRental.Data.Contracts.csproj">
       <Project>{42f61eaa-27e0-47c2-ac99-d466dff8f4a3}</Project>
       <Name>CarRental.Data.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Core.Common.Contracts\Core.Common.Contracts.csproj">
+      <Project>{4d4e6fa2-1d73-45fd-b40d-2fbaa308d80f}</Project>
+      <Name>Core.Common.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Core.Common\Core.Common.csproj">
+      <Project>{d278e92e-09d6-41cc-9a5a-1dbd0ef06bb4}</Project>
+      <Name>Core.Common</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
